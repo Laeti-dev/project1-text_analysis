@@ -1,5 +1,6 @@
 # project1-text_analysis
-First Matrice project : analyse a simple text and present the outcome with simple terms
+First Matrice project : analyse a simple text and present the outcome with simple terms 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
 In the event of COP27, I wanted to analyse a text on the topic of environment. Remembering Greta Tunberg's direct speeches, I found interesting to analyse words frequencies and make a wordcloud out of it. Then compare 'How dare you' speech, happening in 2019 at the U.N.'s Climate Action Summit and the 'Blah blah blah' speech made two years later in Milan, few month before COP26.
